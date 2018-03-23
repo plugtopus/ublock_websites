@@ -1,0 +1,71 @@
+{
+   "title": {
+      "message": "Свободный интернет - вкл/выкл"
+   },
+   "desc": {
+      "message": "Это расширение открывает Вам интернет без границ. Быстрый доступ к любым сайтам для граждан РФ. Шифрование трафика."
+   },
+   "name": {
+      "message": "Свободный интернет"
+   },
+   "sname": {
+      "message": "Свободный интернет"
+   },
+   "messAddList": {
+      "message": "Добавить список"
+   },
+   "messAlertClose": {
+      "message": "Закрыть"
+   },
+   "messAlertError": {
+      "message": "Произошла ошибка"
+   },
+   "messAreYouSure": {
+      "message": "Вы уверены?"
+   },
+   "messErrLim": {
+      "message": "Только список Свободный интернет"
+   },
+   "messErrOverExtProxy": {
+      "message": "не включен, прокси управляется другим расширением"
+   },
+   "messFromList": {
+      "message": "сайт из списка "
+   },
+   "messListsOwn": {
+      "message": "списки сайтов:"
+   },
+   "messListsSomethingHappened": {
+      "message": "видимо что-то случилось, попробуйте повторить запрос через пару секунд"
+   },
+   "messProxyIsOff": {
+      "message": "выключить"
+   },
+   "messProxyOff": {
+      "message": "включить"
+   },
+   "messProxyOn": {
+      "message": "прокси включен"
+   },
+   "messProxyOnAn": {
+      "message": "анонимный прокси включен"
+   },
+   "messProxyOnManually": {
+      "message": "Вы включили прокси вручную"
+   },
+   "messReset": {
+      "message": "Сброс"
+   },
+   "messSiteWithoutProxy": {
+      "message": "сайт доступен"
+   },
+   "messTypeCh3": {
+      "message": "proxy включен всегда"
+   },
+   "mess_fgproxy": {
+      "message": "в настоящее время используются бесплатные прокси-сервера"
+   },
+   "mess_slowconn": {
+      "message": "Медленное соединение."
+   }
+}
